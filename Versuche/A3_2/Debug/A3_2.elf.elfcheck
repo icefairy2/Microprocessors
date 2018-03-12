@@ -1,0 +1,12 @@
+elfcheck
+Xilinx EDK 13.4 Build EDK_O.87xd
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Command Line: elfcheck -hw
+/DIST/lehre/lab_mps/tutor/Musterloesungen/hwplattform/system.xml -pe
+microblaze_0 A3_2.elf 
+
+ELF file	: A3_2.elf
+ERROR:EDK:756 - Cannot read XML file
+   /DIST/lehre/lab_mps/tutor/Musterloesungen/hwplattform/system.xml
+Error: Creating Hardware Debug Object from /DIST/lehre/lab_mps/tutor/Musterloesungen/hwplattform/system.xml
